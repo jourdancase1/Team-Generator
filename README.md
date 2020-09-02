@@ -16,7 +16,7 @@ MIT
 npm run test
      
 ### Questions? Contact me at: 
-jourdancase11@gmail.com
+jourdancase11@gmail.com <br/>
 https://github.com/jourdancase1         
 
 ![Image of Tests](https://github.com/jourdancase1/Team-Generator/blob/master/assets/npm-tests.png)
