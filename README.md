@@ -14,9 +14,10 @@ MIT
 
 ### Tests
 npm run test
+![Image of Tests](https://github.com/jourdancase1/Team-Generator/blob/master/assets/npm-tests.png)
      
 ### Questions? Contact me at: 
 jourdancase11@gmail.com <br/>
 https://github.com/jourdancase1         
 
-![Image of Tests](https://github.com/jourdancase1/Team-Generator/blob/master/assets/npm-tests.png)
+
